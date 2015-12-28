@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GsDemo</string>
+
+    <!-- Strings added for ConnectToDroneActivity -->
+    <string name="Phantom_3_Pro">Phantom 3 Professional</string>
+    <string name="Phantom_3_Adv">Phantom 3 Advanced</string>
+    <string name="Inspire_1">Inspire</string>
+    <string name="Matrice_100">Matrice 100</string>
+    <string name="press_again_exit">Press again to exit</string>
+
+    <!-- Strings added for GroundStationControlActivity -->
+    <string name="menu_main_controller">Main Controller</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

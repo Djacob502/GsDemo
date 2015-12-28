@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\DaveJacob\\AndroidStudioProjects\\GsDemo\\DJI-SDK-LIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\effect_tick.ogg",
+        "source": "C:\\Users\\DaveJacob\\AndroidStudioProjects\\GsDemo\\DJI-SDK-LIB\\build\\intermediates\\bundles\\debug\\res\\raw\\effect_tick.ogg"
+    },
+    {
+        "merged": "C:\\Users\\DaveJacob\\AndroidStudioProjects\\GsDemo\\DJI-SDK-LIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1280_ins.h264",
+        "source": "C:\\Users\\DaveJacob\\AndroidStudioProjects\\GsDemo\\DJI-SDK-LIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1280_ins.h264"
+    },
+    {
+        "merged": "C:\\Users\\DaveJacob\\AndroidStudioProjects\\GsDemo\\DJI-SDK-LIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\dark_1080p30.264",
+        "source": "C:\\Users\\DaveJacob\\AndroidStudioProjects\\GsDemo\\DJI-SDK-LIB\\build\\intermediates\\bundles\\debug\\res\\raw\\dark_1080p30.264"
+    },
+    {
+        "merged": "C:\\Users\\DaveJacob\\AndroidStudioProjects\\GsDemo\\DJI-SDK-LIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\dock.ogg",
+        "source": "C:\\Users\\DaveJacob\\AndroidStudioProjects\\GsDemo\\DJI-SDK-LIB\\build\\intermediates\\bundles\\debug\\res\\raw\\dock.ogg"
+    },
+    {
+        "merged": "C:\\Users\\DaveJacob\\AndroidStudioProjects\\GsDemo\\DJI-SDK-LIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\dark_1080p25.264",
+        "source": "C:\\Users\\DaveJacob\\AndroidStudioProjects\\GsDemo\\DJI-SDK-LIB\\build\\intermediates\\bundles\\debug\\res\\raw\\dark_1080p25.264"
+    },
+    {
+        "merged": "C:\\Users\\DaveJacob\\AndroidStudioProjects\\GsDemo\\DJI-SDK-LIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\flyc_param_infos",
+        "source": "C:\\Users\\DaveJacob\\AndroidStudioProjects\\GsDemo\\DJI-SDK-LIB\\build\\intermediates\\bundles\\debug\\res\\raw\\flyc_param_infos"
+    },
+    {
+        "merged": "C:\\Users\\DaveJacob\\AndroidStudioProjects\\GsDemo\\DJI-SDK-LIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_960_3s.h264",
+        "source": "C:\\Users\\DaveJacob\\AndroidStudioProjects\\GsDemo\\DJI-SDK-LIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_960_3s.h264"
+    },
+    {
+        "merged": "C:\\Users\\DaveJacob\\AndroidStudioProjects\\GsDemo\\DJI-SDK-LIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1280_3s.h264",
+        "source": "C:\\Users\\DaveJacob\\AndroidStudioProjects\\GsDemo\\DJI-SDK-LIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1280_3s.h264"
+    },
+    {
+        "merged": "C:\\Users\\DaveJacob\\AndroidStudioProjects\\GsDemo\\DJI-SDK-LIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\dark_720p30.264",
+        "source": "C:\\Users\\DaveJacob\\AndroidStudioProjects\\GsDemo\\DJI-SDK-LIB\\build\\intermediates\\bundles\\debug\\res\\raw\\dark_720p30.264"
+    },
+    {
+        "merged": "C:\\Users\\DaveJacob\\AndroidStudioProjects\\GsDemo\\DJI-SDK-LIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\dark_720p25.264",
+        "source": "C:\\Users\\DaveJacob\\AndroidStudioProjects\\GsDemo\\DJI-SDK-LIB\\build\\intermediates\\bundles\\debug\\res\\raw\\dark_720p25.264"
+    }
+]
