@@ -24,7 +24,7 @@
 
         <meta-data
             android:name="com.dji.sdk.API_KEY"
-            android:value="your dji key goes here" />
+            android:value="9a09b0b3b86596849d06ad77" />
 
         <activity android:name=".DjiAoaActivity">
             <intent-filter>
@@ -42,11 +42,15 @@
         </activity>
         <activity
             android:name=".ConnectToDroneActivity"
-            android:screenOrientation="landscape"></activity>
+            android:screenOrientation="landscape"
+            android:launchMode="singleTop">
+
+        </activity>
         <activity
             android:name=".GroundStationControlActivity"
             android:parentActivityName=".ConnectToDroneActivity"
-            android:screenOrientation="landscape">
+            android:screenOrientation="landscape"
+            android:launchMode="singleTop">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.ecolumbia.gsdemo.ConnectToDroneActivity" />

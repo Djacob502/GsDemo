@@ -30,7 +30,7 @@ public class ConnectToDroneActivity extends AppCompatActivity {
     private static final String TAG = "DjiGs";
     private static int permissionResult;
     private static String permissionResultDescription;
-    private int droneModel = 0;
+    private int droneModel;
     private Button btnConnectToDrone;
 
     @Override
@@ -91,9 +91,10 @@ public class ConnectToDroneActivity extends AppCompatActivity {
     public void btn_ConnectToDrone_onClick(View view) {
         // Intent for the activity to open when user selects the notification
         Intent intentGroundStation = new Intent(ConnectToDroneActivity.this, GroundStationControlActivity.class);
-        intentGroundStation.putExtra("DroneModelId", droneModel);
-        intentGroundStation.putExtra("PermissionResult", permissionResult);
-        intentGroundStation.putExtra("PermissionResultDescription", permissionResultDescription);
+
+        intentGroundStation.putExtra(getString(R.string.TAG_DRONE_MODEL_ID), getResources().getString(droneModel));
+        intentGroundStation.putExtra(getString(R.string.TAG_PERMISSION_RESULT), permissionResult);
+        intentGroundStation.putExtra(getString(R.string.TAG_PERMISSION_RESULT_DESCRIPTION), permissionResultDescription);
         // If permission has not been obtained, then try the permission again and wait 2 seconds to see if permission can be obtained.
         if (permissionResultDescription == null || permissionResultDescription.equalsIgnoreCase("")) {
             permissionResultDescription = "";

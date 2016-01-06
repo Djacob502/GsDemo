@@ -8,10 +8,18 @@
     <string name="Matrice_100">Matrice 100</string>
     <string name="press_again_exit">Press again to exit</string>
 
-    <!-- Strings added for GroundStationControlActivity -->
+    <!-- Strings added for GroundStationControlActivity menu -->
     <string name="menu_main_controller">Main Controller</string>
+    <string name="menu_initialization">Initialization Values</string>
+    <string name="menu_motor">Motor</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="TAG_DRONE_MODEL_ID">DroneModel</string>
+    <string name="TAG_PERMISSION_RESULT">PermissionResult</string>
+    <string name="TAG_PERMISSION_RESULT_DESCRIPTION">PermissionResultDescription</string>
+    <string name="TAG_CONNECTION_SUCCESS_DESCRIPTION">ConnectionSuccessDescription</string>
+    <string name="MotorOff">Motor Off</string>
+    <string name="MotorOn">Motor On</string>
 
 </resources>

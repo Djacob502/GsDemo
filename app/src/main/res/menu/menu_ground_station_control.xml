@@ -11,5 +11,20 @@
         android:checkable="true"
         android:enabled="true"
         app:showAsAction="never" />
-
+    <item
+        android:id="@+id/menu_initialization"
+        android:orderInCategory="1"
+        android:title="@string/menu_initialization"
+        android:checked="true"
+        android:checkable="true"
+        android:enabled="true"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_motor"
+        android:orderInCategory="1"
+        android:title="@string/menu_motor"
+        android:checked="true"
+        android:checkable="true"
+        android:enabled="true"
+        app:showAsAction="never" />
 </menu>
