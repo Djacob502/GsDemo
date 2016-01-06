@@ -24,7 +24,7 @@
 
         <meta-data
             android:name="com.dji.sdk.API_KEY"
-            android:value="9a09b0b3b86596849d06ad77" />
+            android:value="insert your dji app key here" />
 
         <activity android:name=".DjiAoaActivity">
             <intent-filter>
